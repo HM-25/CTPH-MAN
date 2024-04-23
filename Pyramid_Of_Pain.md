@@ -8,3 +8,4 @@ of CTI (Cyber Threat Intelligence), threat hunting, and incident response exerci
 
 Understanding the Pyramid of Pain concept as a Threat Hunter, Incident Responder,
 or SOC Analyst is important.
+
