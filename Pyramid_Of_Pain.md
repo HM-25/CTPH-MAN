@@ -47,3 +47,4 @@ Attackers usually hide the malicious domains under URL Shorteners. A URL Shorten
     x.co
 
 **Host Artifacts (Annoying)**
+
