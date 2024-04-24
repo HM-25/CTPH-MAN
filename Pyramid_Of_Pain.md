@@ -48,3 +48,10 @@ Attackers usually hide the malicious domains under URL Shorteners. A URL Shorten
 
 **Host Artifacts (Annoying)**
 
+Let's take another step up to the yellow zone.
+
+On this level, the attacker will feel a little more annoyed and frustrated if you can detect the attack. The attacker would need to circle back at this detection level and change his attack tools and methodologies. This is very time-consuming for the attacker, and probably, he will need to spend more resources on his adversary tools.
+
+Host artifacts are the traces or observables that attackers leave on the system, such as registry values, suspicious process execution, attack patterns or IOCs (Indicators of Compromise), files dropped by malicious applications, or anything exclusive to the current threat.
+
+
