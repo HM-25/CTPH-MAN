@@ -26,9 +26,7 @@ ssdeep -pb *
 
 ## Further reading
 
-The method is described in *"Identifying almost identical files using context triggered piecewise hashing"* (Jesse Kornblum, Digital Investigation, 2006, DFRWS proceedings). This repo also collects other papers from the same DFRWS 2006 issue on digital forensics.
-
-All papers remain the property of their authors and publisher.
+The method is described in *"Identifying almost identical files using context triggered piecewise hashing"* (Jesse Kornblum, Digital Investigation, 2006, DFRWS proceedings). The paper and slides are available on the [DFRWS website](https://dfrws.org/presentation/identifying-almost-identical-files-using-context-triggered-piecewise-hashing/).
 
 ## About
 
